@@ -136,7 +136,7 @@ Al ser un repositorio público, GitHub permite técnicamente verlo y bifurcarlo 
 - **Informe de avance:** elaborado en grupo por el equipo de trabajo del curso. Su portada se publica sin nombres ni carnés.
 - **Base de diseño:** el plano Warren de un semestre anterior (`00_enunciado_y_referencias/plano_base_semestre_anterior`) sirvió de punto de partida; la geometría se validó y adaptó para este proyecto.
 - **Metodología:** S. J. Ressler, *Designing and Building File-Folder Bridges*, y los lineamientos del enunciado de la profesora del curso.
-- **Uso de IA:** los planos, el despiece, la guía 3D y la revisión técnica se elaboraron con ayuda de Claude (Anthropic). Las decisiones de diseño, las verificaciones y la responsabilidad del contenido son del autor.
+- **Uso de IA:** los planos, el despiece, la guía 3D y la revisión técnica fue ejecutada por Adrián Castro Ramírez con ayuda de Claude (Anthropic). Las decisiones de diseño, las verificaciones y la responsabilidad del contenido son del autor.
 
 ## 11. Contacto
 
