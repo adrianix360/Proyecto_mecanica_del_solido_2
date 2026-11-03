@@ -1,0 +1,270 @@
+﻿id;rotulo;familia;miembro_o_nudo;k;tot;armadura;espejo;capas;seccion;ancho_mm;largo_mm;area_mm2;perimetro_mm;tapete;archivo;estado;cambio_v01;area_v01_mm2;perimetro_v01_mm;delta_area_mm2;sobre;alto_rotulo_mm
+CS1-1/2;CS1 1/2;Tubo CS;CS1;1;2;;no;1;T10x10;46,0;88,0;3921,09;272,57;T03;T03_v02.dxf;cortar;igual;3921,09;272,57;0,0;CS1;3,0
+CS1-2/2;CS1 2/2;Tubo CS;CS1;2;2;;no;1;T10x10;46,0;88,0;3921,09;272,57;T03;T03_v02.dxf;cortar;igual;3921,09;272,57;0,0;CS1;3,0
+CS2-1/4;CS2 1/4;Tubo CS;CS2;1;4;;no;2;T10x10;46,0;88,0;3921,09;272,57;T01;T01_v02.dxf;cortar;igual;3921,09;272,57;0,0;CS2;3,0
+CS2-2/4;CS2 2/4;Tubo CS;CS2;2;4;;no;2;T10x10;46,0;88,0;3921,09;272,57;T01;T01_v02.dxf;cortar;igual;3921,09;272,57;0,0;CS2;3,0
+CS2-3/4;CS2 3/4;Tubo CS;CS2;3;4;;no;2;T10x10;46,0;88,0;3921,09;272,57;T01;T01_v02.dxf;cortar;igual;3921,09;272,57;0,0;CS2;3,0
+CS2-4/4;CS2 4/4;Tubo CS;CS2;4;4;;no;2;T10x10;46,0;88,0;3921,09;272,57;T01;T01_v02.dxf;cortar;igual;3921,09;272,57;0,0;CS2;3,0
+CS3-1/6;CS3 1/6;Tubo CS;CS3;1;6;;no;3;T10x10;46,0;88,0;3921,09;272,57;T01;T01_v02.dxf;cortar;igual;3921,09;272,57;0,0;CS3;3,0
+CS3-2/6;CS3 2/6;Tubo CS;CS3;2;6;;no;3;T10x10;46,0;88,0;3921,09;272,57;T01;T01_v02.dxf;cortar;igual;3921,09;272,57;0,0;CS3;3,0
+CS3-3/6;CS3 3/6;Tubo CS;CS3;3;6;;no;3;T10x10;46,0;88,0;3921,09;272,57;T01;T01_v02.dxf;cortar;igual;3921,09;272,57;-0,0;CS3;3,0
+CS3-4/6;CS3 4/6;Tubo CS;CS3;4;6;;no;3;T10x10;46,0;88,0;3921,09;272,57;T01;T01_v02.dxf;cortar;igual;3921,09;272,57;-0,0;CS3;3,0
+CS3-5/6;CS3 5/6;Tubo CS;CS3;5;6;;no;3;T10x10;46,0;88,0;3921,09;272,57;T01;T01_v02.dxf;cortar;igual;3921,09;272,57;0,0;CS3;3,0
+CS3-6/6;CS3 6/6;Tubo CS;CS3;6;6;;no;3;T10x10;46,0;88,0;3921,09;272,57;T01;T01_v02.dxf;cortar;igual;3921,09;272,57;0,0;CS3;3,0
+CS4-1/6;CS4 1/6;Tubo CS;CS4;1;6;;no;3;T10x10;46,0;88,0;3921,09;272,57;T02;T02_v02.dxf;cortar;igual;3921,09;272,57;-0,0;CS4;3,0
+CS4-2/6;CS4 2/6;Tubo CS;CS4;2;6;;no;3;T10x10;46,0;88,0;3921,09;272,57;T02;T02_v02.dxf;cortar;igual;3921,09;272,57;-0,0;CS4;3,0
+CS4-3/6;CS4 3/6;Tubo CS;CS4;3;6;;no;3;T10x10;46,0;88,0;3921,09;272,57;T02;T02_v02.dxf;cortar;igual;3921,09;272,57;0,0;CS4;3,0
+CS4-4/6;CS4 4/6;Tubo CS;CS4;4;6;;no;3;T10x10;46,0;88,0;3921,09;272,57;T02;T02_v02.dxf;cortar;igual;3921,09;272,57;-0,0;CS4;3,0
+CS4-5/6;CS4 5/6;Tubo CS;CS4;5;6;;no;3;T10x10;46,0;88,0;3921,09;272,57;T02;T02_v02.dxf;cortar;igual;3921,09;272,57;-0,0;CS4;3,0
+CS4-6/6;CS4 6/6;Tubo CS;CS4;6;6;;no;3;T10x10;46,0;88,0;3921,09;272,57;T02;T02_v02.dxf;cortar;igual;3921,09;272,57;0,0;CS4;3,0
+CS5-1/4;CS5 1/4;Tubo CS;CS5;1;4;;no;2;T10x10;46,0;88,0;3921,09;272,57;T02;T02_v02.dxf;cortar;igual;3921,09;272,57;0,0;CS5;3,0
+CS5-2/4;CS5 2/4;Tubo CS;CS5;2;4;;no;2;T10x10;46,0;88,0;3921,09;272,57;T02;T02_v02.dxf;cortar;igual;3921,09;272,57;-0,0;CS5;3,0
+CS5-3/4;CS5 3/4;Tubo CS;CS5;3;4;;no;2;T10x10;46,0;88,0;3921,09;272,57;T02;T02_v02.dxf;cortar;igual;3921,09;272,57;-0,0;CS5;3,0
+CS5-4/4;CS5 4/4;Tubo CS;CS5;4;4;;no;2;T10x10;46,0;88,0;3921,09;272,57;T02;T02_v02.dxf;cortar;igual;3921,09;272,57;0,0;CS5;3,0
+CS6-1/2;CS6 1/2;Tubo CS;CS6;1;2;;no;1;T10x10;46,0;88,0;3921,09;272,57;T03;T03_v02.dxf;cortar;igual;3921,09;272,57;0,0;CS6;3,0
+CS6-2/2;CS6 2/2;Tubo CS;CS6;2;2;;no;1;T10x10;46,0;88,0;3921,09;272,57;T03;T03_v02.dxf;cortar;igual;3921,09;272,57;0,0;CS6;3,0
+PE1-1/4;PE1 1/4;Tubo PE;PE1;1;4;;no;2;T10x10;46,0;145,48;6428,77;396,77;T04;T04_v02.dxf;cortar;igual;6428,77;396,77;0,0;PE1;3,0
+PE1-2/4;PE1 2/4;Tubo PE;PE1;2;4;;no;2;T10x10;46,0;145,48;6428,77;396,77;T04;T04_v02.dxf;cortar;igual;6428,77;396,77;0,0;PE1;3,0
+PE1-3/4;PE1 3/4;Tubo PE;PE1;3;4;;no;2;T10x10;46,0;145,48;6428,77;396,77;T04;T04_v02.dxf;cortar;igual;6428,77;396,77;0,0;PE1;3,0
+PE1-4/4;PE1 4/4;Tubo PE;PE1;4;4;;no;2;T10x10;46,0;145,48;6428,77;396,77;T04;T04_v02.dxf;cortar;igual;6428,77;396,77;0,0;PE1;3,0
+PE2-1/4;PE2 1/4;Tubo PE;PE2;1;4;;no;2;T10x10;46,0;145,48;6463,21;401,65;T03;T03_v02.dxf;cortar;igual;6463,21;401,65;0,0;PE2;3,0
+PE2-2/4;PE2 2/4;Tubo PE;PE2;2;4;;no;2;T10x10;46,0;145,48;6463,21;401,65;T03;T03_v02.dxf;cortar;igual;6463,21;401,65;0,0;PE2;3,0
+PE2-3/4;PE2 3/4;Tubo PE;PE2;3;4;;no;2;T10x10;46,0;145,48;6463,21;401,65;T03;T03_v02.dxf;cortar;igual;6463,21;401,65;0,0;PE2;3,0
+PE2-4/4;PE2 4/4;Tubo PE;PE2;4;4;;no;2;T10x10;46,0;145,48;6463,21;401,65;T03;T03_v02.dxf;cortar;igual;6463,21;401,65;0,0;PE2;3,0
+DW2-1/4;DW2 1/4;Tubo DW;DW2;1;4;;no;2;T10x10;46,0;145,07;6185,12;419,32;T05;T05_v02.dxf;cortar;igual;6185,12;419,32;0,0;DW2;3,0
+DW2-2/4;DW2 2/4;Tubo DW;DW2;2;4;;no;2;T10x10;46,0;145,07;6185,12;419,32;T05;T05_v02.dxf;cortar;igual;6185,12;419,32;0,0;DW2;3,0
+DW2-3/4;DW2 3/4;Tubo DW;DW2;3;4;;no;2;T10x10;46,0;145,07;6185,12;419,32;T05;T05_v02.dxf;cortar;igual;6185,12;419,32;-0,0;DW2;3,0
+DW2-4/4;DW2 4/4;Tubo DW;DW2;4;4;;no;2;T10x10;46,0;145,07;6185,12;419,32;T05;T05_v02.dxf;cortar;igual;6185,12;419,32;0,0;DW2;3,0
+DW4-1/2;DW4 1/2;Tubo DW;DW4;1;2;;no;1;T10x10;46,0;145,07;6185,12;419,32;T05;T05_v02.dxf;cortar;igual;6185,12;419,32;0,0;DW4;3,0
+DW4-2/2;DW4 2/2;Tubo DW;DW4;2;2;;no;1;T10x10;46,0;145,07;6185,12;419,32;T05;T05_v02.dxf;cortar;igual;6185,12;419,32;0,0;DW4;3,0
+DW6-1/2;DW6 1/2;Tubo DW;DW6;1;2;;no;1;T6x10;38,0;145,07;5262,36;371,35;T07;T07_v02.dxf;cortar;igual;5262,36;371,35;-0,0;DW6;3,0
+DW6-2/2;DW6 2/2;Tubo DW;DW6;2;2;;no;1;T6x10;38,0;145,07;5262,36;371,35;T07;T07_v02.dxf;cortar;igual;5262,36;371,35;-0,0;DW6;3,0
+DW7-1/2;DW7 1/2;Tubo DW;DW7;1;2;;no;1;T6x10;38,0;145,07;5262,36;371,35;T04;T04_v02.dxf;cortar;igual;5262,36;371,35;0,0;DW7;3,0
+DW7-2/2;DW7 2/2;Tubo DW;DW7;2;2;;no;1;T6x10;38,0;145,07;5262,36;371,35;T04;T04_v02.dxf;cortar;igual;5262,36;371,35;0,0;DW7;3,0
+DW9-1/2;DW9 1/2;Tubo DW;DW9;1;2;;no;1;T10x10;46,0;145,07;6185,12;419,32;T07;T07_v02.dxf;cortar;igual;6185,12;419,32;0,0;DW9;3,0
+DW9-2/2;DW9 2/2;Tubo DW;DW9;2;2;;no;1;T10x10;46,0;145,07;6185,12;419,32;T07;T07_v02.dxf;cortar;igual;6185,12;419,32;0,0;DW9;3,0
+DW11-1/4;DW11 1/4;Tubo DW;DW11;1;4;;no;2;T10x10;46,0;145,07;6185,12;419,32;T06;T06_v02.dxf;cortar;igual;6185,12;419,32;-0,0;DW11;3,0
+DW11-2/4;DW11 2/4;Tubo DW;DW11;2;4;;no;2;T10x10;46,0;145,07;6185,12;419,32;T06;T06_v02.dxf;cortar;igual;6185,12;419,32;0,0;DW11;3,0
+DW11-3/4;DW11 3/4;Tubo DW;DW11;3;4;;no;2;T10x10;46,0;145,07;6185,12;419,32;T06;T06_v02.dxf;cortar;igual;6185,12;419,32;0,0;DW11;3,0
+DW11-4/4;DW11 4/4;Tubo DW;DW11;4;4;;no;2;T10x10;46,0;145,07;6185,12;419,32;T06;T06_v02.dxf;cortar;igual;6185,12;419,32;0,0;DW11;3,0
+DW1-1/8;DW1 1/8;Tira DW (B6);DW1;1;8;A;no;2;B6;6,0;145,07;852,04;296,59;T08;T08_v02.dxf;cortar;igual;852,04;296,59;0,0;DW1 A;2,5
+DW1-2/8;DW1 2/8;Tira DW (B6);DW1;2;8;A;no;2;B6;6,0;145,07;852,04;296,59;T08;T08_v02.dxf;cortar;igual;852,04;296,59;0,0;DW1 A;2,5
+DW1-3/8;DW1 3/8;Tira DW (B6);DW1;3;8;A;no;2;B6;6,0;145,07;852,04;296,59;T08;T08_v02.dxf;cortar;igual;852,04;296,59;0,0;DW1 A;2,5
+DW1-4/8;DW1 4/8;Tira DW (B6);DW1;4;8;A;no;2;B6;6,0;145,07;852,04;296,59;T08;T08_v02.dxf;cortar;igual;852,04;296,59;0,0;DW1 A;2,5
+DW1-5/8;DW1 5/8;Tira DW (B6);DW1;5;8;B;sí;2;B6;6,0;145,07;852,04;296,59;T08;T08_v02.dxf;cortar;igual (espejo, armadura B);852,04;296,59;0,0;DW1 B;2,5
+DW1-6/8;DW1 6/8;Tira DW (B6);DW1;6;8;B;sí;2;B6;6,0;145,07;852,04;296,59;T08;T08_v02.dxf;cortar;igual (espejo, armadura B);852,04;296,59;0,0;DW1 B;2,5
+DW1-7/8;DW1 7/8;Tira DW (B6);DW1;7;8;B;sí;2;B6;6,0;145,07;852,04;296,59;T08;T08_v02.dxf;cortar;igual (espejo, armadura B);852,04;296,59;0,0;DW1 B;2,5
+DW1-8/8;DW1 8/8;Tira DW (B6);DW1;8;8;B;sí;2;B6;6,0;145,07;852,04;296,59;T08;T08_v02.dxf;cortar;igual (espejo, armadura B);852,04;296,59;0,0;DW1 B;2,5
+DW3-1/8;DW3 1/8;Tira DW (B6);DW3;1;8;A;no;2;B6;6,0;145,07;852,04;296,59;T08;T08_v02.dxf;cortar;igual;852,04;296,59;0,0;DW3 A;2,5
+DW3-2/8;DW3 2/8;Tira DW (B6);DW3;2;8;A;no;2;B6;6,0;145,07;852,04;296,59;T08;T08_v02.dxf;cortar;igual;852,04;296,59;0,0;DW3 A;2,5
+DW3-3/8;DW3 3/8;Tira DW (B6);DW3;3;8;A;no;2;B6;6,0;145,07;852,04;296,59;T08;T08_v02.dxf;cortar;igual;852,04;296,59;0,0;DW3 A;2,5
+DW3-4/8;DW3 4/8;Tira DW (B6);DW3;4;8;A;no;2;B6;6,0;145,07;852,04;296,59;T08;T08_v02.dxf;cortar;igual;852,04;296,59;0,0;DW3 A;2,5
+DW3-5/8;DW3 5/8;Tira DW (B6);DW3;5;8;B;sí;2;B6;6,0;145,07;852,04;296,59;T08;T08_v02.dxf;cortar;igual (espejo, armadura B);852,04;296,59;0,0;DW3 B;2,5
+DW3-6/8;DW3 6/8;Tira DW (B6);DW3;6;8;B;sí;2;B6;6,0;145,07;852,04;296,59;T08;T08_v02.dxf;cortar;igual (espejo, armadura B);852,04;296,59;0,0;DW3 B;2,5
+DW3-7/8;DW3 7/8;Tira DW (B6);DW3;7;8;B;sí;2;B6;6,0;145,07;852,04;296,59;T08;T08_v02.dxf;cortar;igual (espejo, armadura B);852,04;296,59;0,0;DW3 B;2,5
+DW3-8/8;DW3 8/8;Tira DW (B6);DW3;8;8;B;sí;2;B6;6,0;145,07;852,04;296,59;T08;T08_v02.dxf;cortar;igual (espejo, armadura B);852,04;296,59;0,0;DW3 B;2,5
+DW5-1/4;DW5 1/4;Tira DW (B6);DW5;1;4;A;no;1;B6;6,0;145,07;852,04;296,59;T02;T02_v02.dxf;cortar;igual;852,04;296,59;0,0;DW5 A;2,5
+DW5-2/4;DW5 2/4;Tira DW (B6);DW5;2;4;A;no;1;B6;6,0;145,07;852,04;296,59;T02;T02_v02.dxf;cortar;igual;852,04;296,59;0,0;DW5 A;2,5
+DW5-3/4;DW5 3/4;Tira DW (B6);DW5;3;4;B;sí;1;B6;6,0;145,07;852,04;296,59;T02;T02_v02.dxf;cortar;igual (espejo, armadura B);852,04;296,59;0,0;DW5 B;2,5
+DW5-4/4;DW5 4/4;Tira DW (B6);DW5;4;4;B;sí;1;B6;6,0;145,07;852,04;296,59;T02;T02_v02.dxf;cortar;igual (espejo, armadura B);852,04;296,59;0,0;DW5 B;2,5
+DW8-1/4;DW8 1/4;Tira DW (B6);DW8;1;4;A;no;1;B6;6,0;145,07;852,04;296,59;T01;T01_v02.dxf;cortar;igual;852,04;296,59;0,0;DW8 A;2,5
+DW8-2/4;DW8 2/4;Tira DW (B6);DW8;2;4;A;no;1;B6;6,0;145,07;852,04;296,59;T01;T01_v02.dxf;cortar;igual;852,04;296,59;0,0;DW8 A;2,5
+DW8-3/4;DW8 3/4;Tira DW (B6);DW8;3;4;B;sí;1;B6;6,0;145,07;852,04;296,59;T01;T01_v02.dxf;cortar;igual (espejo, armadura B);852,04;296,59;-0,0;DW8 B;2,5
+DW8-4/4;DW8 4/4;Tira DW (B6);DW8;4;4;B;sí;1;B6;6,0;145,07;852,04;296,59;T01;T01_v02.dxf;cortar;igual (espejo, armadura B);852,04;296,59;0,0;DW8 B;2,5
+DW10-1/8;DW10 1/8;Tira DW (B6);DW10;1;8;A;no;2;B6;6,0;145,07;852,04;296,59;T06;T06_v02.dxf;cortar;igual;852,04;296,59;0,0;DW10 A;2,5
+DW10-2/8;DW10 2/8;Tira DW (B6);DW10;2;8;A;no;2;B6;6,0;145,07;852,04;296,59;T06;T06_v02.dxf;cortar;igual;852,04;296,59;0,0;DW10 A;2,5
+DW10-3/8;DW10 3/8;Tira DW (B6);DW10;3;8;A;no;2;B6;6,0;145,07;852,04;296,59;T06;T06_v02.dxf;cortar;igual;852,04;296,59;0,0;DW10 A;2,5
+DW10-4/8;DW10 4/8;Tira DW (B6);DW10;4;8;A;no;2;B6;6,0;145,07;852,04;296,59;T06;T06_v02.dxf;cortar;igual;852,04;296,59;-0,0;DW10 A;2,5
+DW10-5/8;DW10 5/8;Tira DW (B6);DW10;5;8;B;sí;2;B6;6,0;145,07;852,04;296,59;T06;T06_v02.dxf;cortar;igual (espejo, armadura B);852,04;296,59;0,0;DW10 B;2,5
+DW10-6/8;DW10 6/8;Tira DW (B6);DW10;6;8;B;sí;2;B6;6,0;145,07;852,04;296,59;T06;T06_v02.dxf;cortar;igual (espejo, armadura B);852,04;296,59;0,0;DW10 B;2,5
+DW10-7/8;DW10 7/8;Tira DW (B6);DW10;7;8;B;sí;2;B6;6,0;145,07;852,04;296,59;T06;T06_v02.dxf;cortar;igual (espejo, armadura B);852,04;296,59;0,0;DW10 B;2,5
+DW10-8/8;DW10 8/8;Tira DW (B6);DW10;8;8;B;sí;2;B6;6,0;145,07;852,04;296,59;T06;T06_v02.dxf;cortar;igual (espejo, armadura B);852,04;296,59;-0,0;DW10 B;2,5
+DW12-1/8;DW12 1/8;Tira DW (B6);DW12;1;8;A;no;2;B6;6,0;145,07;852,04;296,59;T07;T07_v02.dxf;cortar;igual;852,04;296,59;0,0;DW12 A;2,5
+DW12-2/8;DW12 2/8;Tira DW (B6);DW12;2;8;A;no;2;B6;6,0;145,07;852,04;296,59;T07;T07_v02.dxf;cortar;igual;852,04;296,59;0,0;DW12 A;2,5
+DW12-3/8;DW12 3/8;Tira DW (B6);DW12;3;8;A;no;2;B6;6,0;145,07;852,04;296,59;T07;T07_v02.dxf;cortar;igual;852,04;296,59;0,0;DW12 A;2,5
+DW12-4/8;DW12 4/8;Tira DW (B6);DW12;4;8;A;no;2;B6;6,0;145,07;852,04;296,59;T07;T07_v02.dxf;cortar;igual;852,04;296,59;0,0;DW12 A;2,5
+DW12-5/8;DW12 5/8;Tira DW (B6);DW12;5;8;B;sí;2;B6;6,0;145,07;852,04;296,59;T07;T07_v02.dxf;cortar;igual (espejo, armadura B);852,04;296,59;0,0;DW12 B;2,5
+DW12-6/8;DW12 6/8;Tira DW (B6);DW12;6;8;B;sí;2;B6;6,0;145,07;852,04;296,59;T07;T07_v02.dxf;cortar;igual (espejo, armadura B);852,04;296,59;0,0;DW12 B;2,5
+DW12-7/8;DW12 7/8;Tira DW (B6);DW12;7;8;B;sí;2;B6;6,0;145,07;852,04;296,59;T07;T07_v02.dxf;cortar;igual (espejo, armadura B);852,04;296,59;0,0;DW12 B;2,5
+DW12-8/8;DW12 8/8;Tira DW (B6);DW12;8;8;B;sí;2;B6;6,0;145,07;852,04;296,59;T07;T07_v02.dxf;cortar;igual (espejo, armadura B);852,04;296,59;0,0;DW12 B;2,5
+CI c1-t1-1/4;CIc1t1 1/4;Tira CI (B6);CI c1-t1;1;4;A;no;1;B6;6,0;162,0;972,0;336,0;T04;T04_v02.dxf;cortar;igual;972,0;336,0;0,0;CI c1-t1 A;2,5
+CI c1-t1-2/4;CIc1t1 2/4;Tira CI (B6);CI c1-t1;2;4;A;no;1;B6;6,0;162,0;972,0;336,0;T04;T04_v02.dxf;cortar;igual;972,0;336,0;0,0;CI c1-t1 A;2,5
+CI c1-t1-3/4;CIc1t1 3/4;Tira CI (B6);CI c1-t1;3;4;B;no;1;B6;6,0;162,0;972,0;336,0;T04;T04_v02.dxf;cortar;igual;972,0;336,0;0,0;CI c1-t1 B;2,5
+CI c1-t1-4/4;CIc1t1 4/4;Tira CI (B6);CI c1-t1;4;4;B;no;1;B6;6,0;162,0;972,0;336,0;T04;T04_v02.dxf;cortar;igual;972,0;336,0;0,0;CI c1-t1 B;2,5
+CI c1-t2-1/4;CIc1t2 1/4;Tira CI (B6);CI c1-t2;1;4;A;no;1;B6;6,0;295,0;1770,0;602,0;T09;T09_v02.dxf;cortar;igual;1770,0;602,0;0,0;CI c1-t2 A;2,5
+CI c1-t2-2/4;CIc1t2 2/4;Tira CI (B6);CI c1-t2;2;4;A;no;1;B6;6,0;295,0;1770,0;602,0;T09;T09_v02.dxf;cortar;igual;1770,0;602,0;0,0;CI c1-t2 A;2,5
+CI c1-t2-3/4;CIc1t2 3/4;Tira CI (B6);CI c1-t2;3;4;B;no;1;B6;6,0;295,0;1770,0;602,0;T09;T09_v02.dxf;cortar;igual;1770,0;602,0;0,0;CI c1-t2 B;2,5
+CI c1-t2-4/4;CIc1t2 4/4;Tira CI (B6);CI c1-t2;4;4;B;no;1;B6;6,0;295,0;1770,0;602,0;T09;T09_v02.dxf;cortar;igual;1770,0;602,0;0,0;CI c1-t2 B;2,5
+CI c1-t3-1/4;CIc1t3 1/4;Tira CI (B6);CI c1-t3;1;4;A;no;1;B6;6,0;255,0;1530,0;522,0;T09;T09_v02.dxf;cortar;igual;1530,0;522,0;0,0;CI c1-t3 A;2,5
+CI c1-t3-2/4;CIc1t3 2/4;Tira CI (B6);CI c1-t3;2;4;A;no;1;B6;6,0;255,0;1530,0;522,0;T09;T09_v02.dxf;cortar;igual;1530,0;522,0;0,0;CI c1-t3 A;2,5
+CI c1-t3-3/4;CIc1t3 3/4;Tira CI (B6);CI c1-t3;3;4;B;no;1;B6;6,0;255,0;1530,0;522,0;T09;T09_v02.dxf;cortar;igual;1530,0;522,0;0,0;CI c1-t3 B;2,5
+CI c1-t3-4/4;CIc1t3 4/4;Tira CI (B6);CI c1-t3;4;4;B;no;1;B6;6,0;255,0;1530,0;522,0;T09;T09_v02.dxf;cortar;igual;1530,0;522,0;0,0;CI c1-t3 B;2,5
+CI c2-t1-1/4;CIc2t1 1/4;Tira CI (B6);CI c2-t1;1;4;A;no;1;B6;6,0;271,0;1626,0;554,0;T08;T08_v02.dxf;cortar;igual;1626,0;554,0;0,0;CI c2-t1 A;2,5
+CI c2-t1-2/4;CIc2t1 2/4;Tira CI (B6);CI c2-t1;2;4;A;no;1;B6;6,0;271,0;1626,0;554,0;T08;T08_v02.dxf;cortar;igual;1626,0;554,0;0,0;CI c2-t1 A;2,5
+CI c2-t1-3/4;CIc2t1 3/4;Tira CI (B6);CI c2-t1;3;4;B;no;1;B6;6,0;271,0;1626,0;554,0;T08;T08_v02.dxf;cortar;igual;1626,0;554,0;0,0;CI c2-t1 B;2,5
+CI c2-t1-4/4;CIc2t1 4/4;Tira CI (B6);CI c2-t1;4;4;B;no;1;B6;6,0;271,0;1626,0;554,0;T08;T08_v02.dxf;cortar;igual;1626,0;554,0;0,0;CI c2-t1 B;2,5
+CI c2-t2-1/4;CIc2t2 1/4;Tira CI (B6);CI c2-t2;1;4;A;no;1;B6;6,0;289,0;1734,0;590,0;T09;T09_v02.dxf;cortar;igual;1734,0;590,0;0,0;CI c2-t2 A;2,5
+CI c2-t2-2/4;CIc2t2 2/4;Tira CI (B6);CI c2-t2;2;4;A;no;1;B6;6,0;289,0;1734,0;590,0;T09;T09_v02.dxf;cortar;igual;1734,0;590,0;0,0;CI c2-t2 A;2,5
+CI c2-t2-3/4;CIc2t2 3/4;Tira CI (B6);CI c2-t2;3;4;B;no;1;B6;6,0;289,0;1734,0;590,0;T09;T09_v02.dxf;cortar;igual;1734,0;590,0;0,0;CI c2-t2 B;2,5
+CI c2-t2-4/4;CIc2t2 4/4;Tira CI (B6);CI c2-t2;4;4;B;no;1;B6;6,0;289,0;1734,0;590,0;T09;T09_v02.dxf;cortar;igual;1734,0;590,0;0,0;CI c2-t2 B;2,5
+CI c3-t1-1/4;CIc3t1 1/4;Tira CI (B6);CI c3-t1;1;4;A;no;1;B6;6,0;90,0;540,0;192,0;T03;T03_v02.dxf;cortar;igual;540,0;192,0;0,0;CI c3-t1 A;2,5
+CI c3-t1-2/4;CIc3t1 2/4;Tira CI (B6);CI c3-t1;2;4;A;no;1;B6;6,0;90,0;540,0;192,0;T03;T03_v02.dxf;cortar;igual;540,0;192,0;0,0;CI c3-t1 A;2,5
+CI c3-t1-3/4;CIc3t1 3/4;Tira CI (B6);CI c3-t1;3;4;B;no;1;B6;6,0;90,0;540,0;192,0;T03;T03_v02.dxf;cortar;igual;540,0;192,0;0,0;CI c3-t1 B;2,5
+CI c3-t1-4/4;CIc3t1 4/4;Tira CI (B6);CI c3-t1;4;4;B;no;1;B6;6,0;90,0;540,0;192,0;T03;T03_v02.dxf;cortar;igual;540,0;192,0;0,0;CI c3-t1 B;2,5
+CI c3-t2-1/4;CIc3t2 1/4;Tira CI (B6);CI c3-t2;1;4;A;no;1;B6;6,0;282,0;1692,0;576,0;T08;T08_v02.dxf;cortar;igual;1692,0;576,0;0,0;CI c3-t2 A;2,5
+CI c3-t2-2/4;CIc3t2 2/4;Tira CI (B6);CI c3-t2;2;4;A;no;1;B6;6,0;282,0;1692,0;576,0;T08;T08_v02.dxf;cortar;igual;1692,0;576,0;0,0;CI c3-t2 A;2,5
+CI c3-t2-3/4;CIc3t2 3/4;Tira CI (B6);CI c3-t2;3;4;B;no;1;B6;6,0;282,0;1692,0;576,0;T08;T08_v02.dxf;cortar;igual;1692,0;576,0;0,0;CI c3-t2 B;2,5
+CI c3-t2-4/4;CIc3t2 4/4;Tira CI (B6);CI c3-t2;4;4;B;no;1;B6;6,0;282,0;1692,0;576,0;T08;T08_v02.dxf;cortar;igual;1692,0;576,0;0,0;CI c3-t2 B;2,5
+A0-1/4;A0 1/4;Cartela GI;A0;1;4;A;no;1;CARTELA;27,75;30,47;622,93;97,11;T03;T03_v02.dxf;cortar;igual;622,92;97,11;0,0;A0 A;3,0
+A0-2/4;A0 2/4;Cartela GI;A0;2;4;A;no;1;CARTELA;27,75;30,47;622,93;97,11;T03;T03_v02.dxf;cortar;igual;622,92;97,11;0,0;A0 A;3,0
+A0-3/4;A0 3/4;Cartela GI;A0;3;4;B;sí;1;CARTELA;27,75;30,47;622,92;97,11;T03;T03_v02.dxf;cortar;igual (espejo, armadura B);622,93;97,11;-0,0;A0 B;3,0
+A0-4/4;A0 4/4;Cartela GI;A0;4;4;B;sí;1;CARTELA;27,75;30,47;622,92;97,11;T03;T03_v02.dxf;cortar;igual (espejo, armadura B);622,92;97,11;-0,0;A0 B;3,0
+A1-1/4;A1 1/4;Cartela GI;A1;1;4;A;no;1;CARTELA;29,0;46,0;1050,94;129,18;T01;T01_v02.dxf;cortar;igual;1050,94;129,18;0,0;A1 A;3,0
+A1-2/4;A1 2/4;Cartela GI;A1;2;4;A;no;1;CARTELA;29,0;46,0;1050,94;129,18;T01;T01_v02.dxf;cortar;igual;1050,95;129,18;-0,0;A1 A;3,0
+A1-3/4;A1 3/4;Cartela GI;A1;3;4;B;sí;1;CARTELA;29,0;46,0;1050,95;129,18;T01;T01_v02.dxf;cortar;igual (espejo, armadura B);1050,94;129,18;0,0;A1 B;3,0
+A1-4/4;A1 4/4;Cartela GI;A1;4;4;B;sí;1;CARTELA;29,0;46,0;1050,95;129,18;T01;T01_v02.dxf;cortar;igual (espejo, armadura B);1050,95;129,18;0,0;A1 B;3,0
+A2-1/8;A2 1/8;Cartela GI;A2;1;8;A;no;2;CARTELA;29,0;46,0;1050,94;129,18;T06;T06_v02.dxf;cortar;igual;1050,95;129,18;-0,0;A2 A;3,0
+A2-2/8;A2 2/8;Cartela GI;A2;2;8;A;no;2;CARTELA;29,0;46,0;1050,94;129,18;T06;T06_v02.dxf;cortar;igual;1050,94;129,18;0,0;A2 A;3,0
+A2-3/8;A2 3/8;Cartela GI;A2;3;8;A;no;2;CARTELA;29,0;46,0;1050,95;129,18;T06;T06_v02.dxf;cortar;igual;1050,94;129,18;0,0;A2 A;3,0
+A2-4/8;A2 4/8;Cartela GI;A2;4;8;A;no;2;CARTELA;29,0;46,0;1050,94;129,18;T06;T06_v02.dxf;cortar;igual;1050,94;129,18;0,0;A2 A;3,0
+A2-5/8;A2 5/8;Cartela GI;A2;5;8;B;sí;2;CARTELA;29,0;46,0;1050,94;129,18;T06;T06_v02.dxf;cortar;igual (espejo, armadura B);1050,94;129,18;0,0;A2 B;3,0
+A2-6/8;A2 6/8;Cartela GI;A2;6;8;B;sí;2;CARTELA;29,0;46,0;1050,95;129,18;T06;T06_v02.dxf;cortar;igual (espejo, armadura B);1050,94;129,18;0,0;A2 B;3,0
+A2-7/8;A2 7/8;Cartela GI;A2;7;8;B;sí;2;CARTELA;29,0;46,0;1050,95;129,18;T06;T06_v02.dxf;cortar;igual (espejo, armadura B);1050,94;129,18;0,0;A2 B;3,0
+A2-8/8;A2 8/8;Cartela GI;A2;8;8;B;sí;2;CARTELA;29,0;46,0;1050,94;129,18;T06;T06_v02.dxf;cortar;igual (espejo, armadura B);1050,95;129,18;-0,0;A2 B;3,0
+A3-1/8;A3 1/8;Cartela GI;A3;1;8;A;no;2;CARTELA;28,4;46,0;1038,3;128,59;T08;T08_v02.dxf;cortar;igual;1038,3;128,59;-0,0;A3 A;2,75
+A3-2/8;A3 2/8;Cartela GI;A3;2;8;A;no;2;CARTELA;28,4;46,0;1038,3;128,59;T08;T08_v02.dxf;cortar;igual;1038,3;128,59;0,0;A3 A;2,75
+A3-3/8;A3 3/8;Cartela GI;A3;3;8;A;no;2;CARTELA;28,4;46,0;1038,3;128,59;T08;T08_v02.dxf;cortar;igual;1038,3;128,59;0,0;A3 A;2,75
+A3-4/8;A3 4/8;Cartela GI;A3;4;8;A;no;2;CARTELA;28,4;46,0;1038,3;128,59;T08;T08_v02.dxf;cortar;igual;1038,3;128,59;-0,0;A3 A;2,75
+A3-5/8;A3 5/8;Cartela GI;A3;5;8;B;sí;2;CARTELA;28,4;46,0;1038,3;128,59;T08;T08_v02.dxf;cortar;igual (espejo, armadura B);1038,3;128,59;-0,0;A3 B;2,75
+A3-6/8;A3 6/8;Cartela GI;A3;6;8;B;sí;2;CARTELA;28,4;46,0;1038,3;128,59;T08;T08_v02.dxf;cortar;igual (espejo, armadura B);1038,3;128,59;0,0;A3 B;2,75
+A3-7/8;A3 7/8;Cartela GI;A3;7;8;B;sí;2;CARTELA;28,4;46,0;1038,3;128,59;T08;T08_v02.dxf;cortar;igual (espejo, armadura B);1038,3;128,59;-0,0;A3 B;2,75
+A3-8/8;A3 8/8;Cartela GI;A3;8;8;B;sí;2;CARTELA;28,4;46,0;1038,3;128,59;T08;T08_v02.dxf;cortar;igual (espejo, armadura B);1038,3;128,59;0,0;A3 B;2,75
+A4-1/8;A4 1/8;Cartela GI;A4;1;8;A;no;2;CARTELA;28,4;46,0;1038,3;128,59;T09;T09_v02.dxf;cortar;igual;1038,3;128,59;-0,0;A4 A;2,75
+A4-2/8;A4 2/8;Cartela GI;A4;2;8;A;no;2;CARTELA;28,4;46,0;1038,3;128,59;T09;T09_v02.dxf;cortar;igual;1038,3;128,59;0,0;A4 A;2,75
+A4-3/8;A4 3/8;Cartela GI;A4;3;8;A;no;2;CARTELA;28,4;46,0;1038,3;128,59;T09;T09_v02.dxf;cortar;igual;1038,3;128,59;-0,0;A4 A;2,75
+A4-4/8;A4 4/8;Cartela GI;A4;4;8;A;no;2;CARTELA;28,4;46,0;1038,3;128,59;T09;T09_v02.dxf;cortar;igual;1038,3;128,59;0,0;A4 A;2,75
+A4-5/8;A4 5/8;Cartela GI;A4;5;8;B;sí;2;CARTELA;28,4;46,0;1038,3;128,59;T09;T09_v02.dxf;cortar;igual (espejo, armadura B);1038,3;128,59;-0,0;A4 B;2,75
+A4-6/8;A4 6/8;Cartela GI;A4;6;8;B;sí;2;CARTELA;28,4;46,0;1038,3;128,59;T09;T09_v02.dxf;cortar;igual (espejo, armadura B);1038,3;128,59;0,0;A4 B;2,75
+A4-7/8;A4 7/8;Cartela GI;A4;7;8;B;sí;2;CARTELA;28,4;46,0;1038,3;128,59;T09;T09_v02.dxf;cortar;igual (espejo, armadura B);1038,3;128,59;-0,0;A4 B;2,75
+A4-8/8;A4 8/8;Cartela GI;A4;8;8;B;sí;2;CARTELA;28,4;46,0;1038,3;128,59;T09;T09_v02.dxf;cortar;igual (espejo, armadura B);1038,3;128,59;0,0;A4 B;2,75
+A5-1/8;A5 1/8;Cartela GI;A5;1;8;A;no;2;CARTELA;29,0;46,0;1050,94;129,18;T07;T07_v02.dxf;cortar;igual;1050,95;129,18;-0,0;A5 A;3,0
+A5-2/8;A5 2/8;Cartela GI;A5;2;8;A;no;2;CARTELA;29,0;46,0;1050,94;129,18;T07;T07_v02.dxf;cortar;igual;1050,94;129,18;0,0;A5 A;3,0
+A5-3/8;A5 3/8;Cartela GI;A5;3;8;A;no;2;CARTELA;29,0;46,0;1050,94;129,18;T07;T07_v02.dxf;cortar;igual;1050,94;129,18;0,0;A5 A;3,0
+A5-4/8;A5 4/8;Cartela GI;A5;4;8;A;no;2;CARTELA;29,0;46,0;1050,95;129,18;T07;T07_v02.dxf;cortar;igual;1050,95;129,18;-0,0;A5 A;3,0
+A5-5/8;A5 5/8;Cartela GI;A5;5;8;B;sí;2;CARTELA;29,0;46,0;1050,94;129,18;T07;T07_v02.dxf;cortar;igual (espejo, armadura B);1050,94;129,18;0,0;A5 B;3,0
+A5-6/8;A5 6/8;Cartela GI;A5;6;8;B;sí;2;CARTELA;29,0;46,0;1050,94;129,18;T07;T07_v02.dxf;cortar;igual (espejo, armadura B);1050,95;129,18;-0,0;A5 B;3,0
+A5-7/8;A5 7/8;Cartela GI;A5;7;8;B;sí;2;CARTELA;29,0;46,0;1050,94;129,18;T07;T07_v02.dxf;cortar;igual (espejo, armadura B);1050,94;129,18;0,0;A5 B;3,0
+A5-8/8;A5 8/8;Cartela GI;A5;8;8;B;sí;2;CARTELA;29,0;46,0;1050,94;129,18;T07;T07_v02.dxf;cortar;igual (espejo, armadura B);1050,95;129,18;-0,0;A5 B;3,0
+A6-1/4;A6 1/4;Cartela GI;A6;1;4;A;no;1;CARTELA;29,0;46,0;1050,94;129,18;T02;T02_v02.dxf;cortar;igual;1050,94;129,18;0,0;A6 A;3,0
+A6-2/4;A6 2/4;Cartela GI;A6;2;4;A;no;1;CARTELA;29,0;46,0;1050,94;129,18;T02;T02_v02.dxf;cortar;igual;1050,95;129,18;-0,0;A6 A;3,0
+A6-3/4;A6 3/4;Cartela GI;A6;3;4;B;sí;1;CARTELA;29,0;46,0;1050,94;129,18;T02;T02_v02.dxf;cortar;igual (espejo, armadura B);1050,94;129,18;0,0;A6 B;3,0
+A6-4/4;A6 4/4;Cartela GI;A6;4;4;B;sí;1;CARTELA;29,0;46,0;1050,95;129,18;T02;T02_v02.dxf;cortar;igual (espejo, armadura B);1050,95;129,18;-0,0;A6 B;3,0
+A7-1/4;A7 1/4;Cartela GI;A7;1;4;A;no;1;CARTELA;27,75;30,47;622,92;97,11;T04;T04_v02.dxf;cortar;igual;622,92;97,11;0,0;A7 A;3,0
+A7-2/4;A7 2/4;Cartela GI;A7;2;4;A;no;1;CARTELA;27,75;30,47;622,92;97,11;T04;T04_v02.dxf;cortar;igual;622,92;97,11;0,0;A7 A;3,0
+A7-3/4;A7 3/4;Cartela GI;A7;3;4;B;sí;1;CARTELA;27,75;30,47;622,92;97,11;T04;T04_v02.dxf;cortar;igual (espejo, armadura B);622,92;97,11;-0,0;A7 B;3,0
+A7-4/4;A7 4/4;Cartela GI;A7;4;4;B;sí;1;CARTELA;27,75;30,47;622,92;97,11;T04;T04_v02.dxf;cortar;igual (espejo, armadura B);622,92;97,11;-0,0;A7 B;3,0
+U1-1/4;U1 1/4;Cartela GS;U1;1;4;A;no;1;CARTELA;29,0;36,8;795,42;109,54;T05;T05_v02.dxf;cortar;modificada H-05;848,12;112,52;-52,7;U1 A;3,0
+U1-2/4;U1 2/4;Cartela GS;U1;2;4;A;no;1;CARTELA;29,0;36,8;795,42;109,54;T05;T05_v02.dxf;cortar;modificada H-05;848,12;112,52;-52,7;U1 A;3,0
+U1-3/4;U1 3/4;Cartela GS;U1;3;4;B;sí;1;CARTELA;29,0;36,8;795,42;109,54;T05;T05_v02.dxf;cortar;modificada H-05 (espejo, armadura B);848,12;112,52;-52,7;U1 B;3,0
+U1-4/4;U1 4/4;Cartela GS;U1;4;4;B;sí;1;CARTELA;29,0;36,8;795,42;109,54;T05;T05_v02.dxf;cortar;modificada H-05 (espejo, armadura B);848,12;112,52;-52,7;U1 B;3,0
+U2-1/8;U2 1/8;Cartela GS;U2;1;8;A;no;2;CARTELA;29,0;46,0;1071,24;129,94;T09;T09_v02.dxf;cortar;modificada H-05;1163,24;133,94;-92,0;U2 A;3,0
+U2-2/8;U2 2/8;Cartela GS;U2;2;8;A;no;2;CARTELA;29,0;46,0;1071,25;129,94;T09;T09_v02.dxf;cortar;modificada H-05;1163,25;133,94;-92,0;U2 A;3,0
+U2-3/8;U2 3/8;Cartela GS;U2;3;8;A;no;2;CARTELA;29,0;46,0;1071,25;129,94;T09;T09_v02.dxf;cortar;modificada H-05;1163,24;133,94;-92,0;U2 A;3,0
+U2-4/8;U2 4/8;Cartela GS;U2;4;8;A;no;2;CARTELA;29,0;46,0;1071,24;129,94;T09;T09_v02.dxf;cortar;modificada H-05;1163,25;133,94;-92,0;U2 A;3,0
+U2-5/8;U2 5/8;Cartela GS;U2;5;8;B;sí;2;CARTELA;29,0;46,0;1071,25;129,94;T09;T09_v02.dxf;cortar;modificada H-05 (espejo, armadura B);1163,24;133,94;-92,0;U2 B;3,0
+U2-6/8;U2 6/8;Cartela GS;U2;6;8;B;sí;2;CARTELA;29,0;46,0;1071,25;129,94;T09;T09_v02.dxf;cortar;modificada H-05 (espejo, armadura B);1163,24;133,94;-92,0;U2 B;3,0
+U2-7/8;U2 7/8;Cartela GS;U2;7;8;B;sí;2;CARTELA;29,0;46,0;1071,25;129,94;T09;T09_v02.dxf;cortar;modificada H-05 (espejo, armadura B);1163,24;133,94;-92,0;U2 B;3,0
+U2-8/8;U2 8/8;Cartela GS;U2;8;8;B;sí;2;CARTELA;29,0;46,0;1071,24;129,94;T09;T09_v02.dxf;cortar;modificada H-05 (espejo, armadura B);1163,24;133,94;-92,0;U2 B;3,0
+U3-1/8;U3 1/8;Cartela GS;U3;1;8;A;no;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05;1163,24;133,94;-92,0;U3 A;3,0
+U3-2/8;U3 2/8;Cartela GS;U3;2;8;A;no;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05;1163,24;133,94;-92,0;U3 A;3,0
+U3-3/8;U3 3/8;Cartela GS;U3;3;8;A;no;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05;1163,24;133,94;-92,0;U3 A;3,0
+U3-4/8;U3 4/8;Cartela GS;U3;4;8;A;no;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05;1163,24;133,94;-92,0;U3 A;3,0
+U3-5/8;U3 5/8;Cartela GS;U3;5;8;B;sí;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05 (espejo, armadura B);1163,24;133,94;-92,0;U3 B;3,0
+U3-6/8;U3 6/8;Cartela GS;U3;6;8;B;sí;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05 (espejo, armadura B);1163,24;133,94;-92,0;U3 B;3,0
+U3-7/8;U3 7/8;Cartela GS;U3;7;8;B;sí;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05 (espejo, armadura B);1163,24;133,94;-92,0;U3 B;3,0
+U3-8/8;U3 8/8;Cartela GS;U3;8;8;B;sí;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05 (espejo, armadura B);1163,24;133,94;-92,0;U3 B;3,0
+U4-1/8;U4 1/8;Cartela GS;U4;1;8;A;no;2;CARTELA;28,4;46,0;1060,5;129,43;T10;T10_v02.dxf;cortar;modificada H-05;1152,5;133,43;-92,0;U4 A;3,0
+U4-2/8;U4 2/8;Cartela GS;U4;2;8;A;no;2;CARTELA;28,4;46,0;1060,5;129,43;T10;T10_v02.dxf;cortar;modificada H-05;1152,5;133,43;-92,0;U4 A;3,0
+U4-3/8;U4 3/8;Cartela GS;U4;3;8;A;no;2;CARTELA;28,4;46,0;1060,5;129,43;T10;T10_v02.dxf;cortar;modificada H-05;1152,5;133,43;-92,0;U4 A;3,0
+U4-4/8;U4 4/8;Cartela GS;U4;4;8;A;no;2;CARTELA;28,4;46,0;1060,5;129,43;T10;T10_v02.dxf;cortar;modificada H-05;1152,5;133,43;-92,0;U4 A;3,0
+U4-5/8;U4 5/8;Cartela GS;U4;5;8;B;sí;2;CARTELA;28,4;46,0;1060,5;129,43;T10;T10_v02.dxf;cortar;modificada H-05 (espejo, armadura B);1152,5;133,43;-92,0;U4 B;3,0
+U4-6/8;U4 6/8;Cartela GS;U4;6;8;B;sí;2;CARTELA;28,4;46,0;1060,5;129,43;T10;T10_v02.dxf;cortar;modificada H-05 (espejo, armadura B);1152,5;133,43;-92,0;U4 B;3,0
+U4-7/8;U4 7/8;Cartela GS;U4;7;8;B;sí;2;CARTELA;28,4;46,0;1060,5;129,43;T10;T10_v02.dxf;cortar;modificada H-05 (espejo, armadura B);1152,5;133,43;-92,0;U4 B;3,0
+U4-8/8;U4 8/8;Cartela GS;U4;8;8;B;sí;2;CARTELA;28,4;46,0;1060,5;129,43;T10;T10_v02.dxf;cortar;modificada H-05 (espejo, armadura B);1152,5;133,43;-92,0;U4 B;3,0
+U5-1/8;U5 1/8;Cartela GS;U5;1;8;A;no;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05;1163,24;133,94;-92,0;U5 A;3,0
+U5-2/8;U5 2/8;Cartela GS;U5;2;8;A;no;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05;1163,24;133,94;-92,0;U5 A;3,0
+U5-3/8;U5 3/8;Cartela GS;U5;3;8;A;no;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05;1163,24;133,94;-92,0;U5 A;3,0
+U5-4/8;U5 4/8;Cartela GS;U5;4;8;A;no;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05;1163,24;133,94;-92,0;U5 A;3,0
+U5-5/8;U5 5/8;Cartela GS;U5;5;8;B;sí;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05 (espejo, armadura B);1163,24;133,94;-92,0;U5 B;3,0
+U5-6/8;U5 6/8;Cartela GS;U5;6;8;B;sí;2;CARTELA;29,0;46,0;1071,25;129,94;T10;T10_v02.dxf;cortar;modificada H-05 (espejo, armadura B);1163,24;133,94;-92,0;U5 B;3,0
+U5-7/8;U5 7/8;Cartela GS;U5;7;8;B;sí;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05 (espejo, armadura B);1163,24;133,94;-92,0;U5 B;3,0
+U5-8/8;U5 8/8;Cartela GS;U5;8;8;B;sí;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05 (espejo, armadura B);1163,24;133,94;-92,0;U5 B;3,0
+U6-1/8;U6 1/8;Cartela GS;U6;1;8;A;no;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05;1163,24;133,94;-92,0;U6 A;3,0
+U6-2/8;U6 2/8;Cartela GS;U6;2;8;A;no;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05;1163,24;133,94;-92,0;U6 A;3,0
+U6-3/8;U6 3/8;Cartela GS;U6;3;8;A;no;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05;1163,24;133,94;-92,0;U6 A;3,0
+U6-4/8;U6 4/8;Cartela GS;U6;4;8;A;no;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05;1163,24;133,94;-92,0;U6 A;3,0
+U6-5/8;U6 5/8;Cartela GS;U6;5;8;B;sí;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05 (espejo, armadura B);1163,24;133,94;-92,0;U6 B;3,0
+U6-6/8;U6 6/8;Cartela GS;U6;6;8;B;sí;2;CARTELA;29,0;46,0;1071,25;129,94;T10;T10_v02.dxf;cortar;modificada H-05 (espejo, armadura B);1163,24;133,94;-92,0;U6 B;3,0
+U6-7/8;U6 7/8;Cartela GS;U6;7;8;B;sí;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05 (espejo, armadura B);1163,24;133,94;-92,0;U6 B;3,0
+U6-8/8;U6 8/8;Cartela GS;U6;8;8;B;sí;2;CARTELA;29,0;46,0;1071,24;129,94;T10;T10_v02.dxf;cortar;modificada H-05 (espejo, armadura B);1163,24;133,94;-92,0;U6 B;3,0
+U7-1/4;U7 1/4;Cartela GS;U7;1;4;A;no;1;CARTELA;29,0;36,8;795,42;109,54;T07;T07_v02.dxf;cortar;modificada H-05;848,12;112,52;-52,7;U7 A;3,0
+U7-2/4;U7 2/4;Cartela GS;U7;2;4;A;no;1;CARTELA;29,0;36,8;795,42;109,54;T07;T07_v02.dxf;cortar;modificada H-05;848,12;112,52;-52,7;U7 A;3,0
+U7-3/4;U7 3/4;Cartela GS;U7;3;4;B;sí;1;CARTELA;29,0;36,8;795,42;109,54;T07;T07_v02.dxf;cortar;modificada H-05 (espejo, armadura B);848,12;112,52;-52,7;U7 B;3,0
+U7-4/4;U7 4/4;Cartela GS;U7;4;4;B;sí;1;CARTELA;29,0;36,8;795,42;109,54;T07;T07_v02.dxf;cortar;modificada H-05 (espejo, armadura B);848,12;112,52;-52,7;U7 B;3,0
+VP0-base;VP0B;Viga de piso VP;VP0;;;;no;1;T15x6;48,0;89,4;4021,2;274,8;T11;T11_v02.dxf;cortar;igual;4021,2;274,8;0,0;VP0;3,0
+VP1-base;VP1B;Viga de piso VP;VP1;;;;no;1;T15x6;48,0;89,4;4171,2;274,8;T10;T10_v02.dxf;cortar;igual;4171,2;274,8;0,0;VP1;3,0
+VP2-base;VP2B;Viga de piso VP;VP2;;;;no;1;T15x6;48,0;88,8;4142,4;273,6;T12;T12_RETENIDO_H01_v02.dxf;retenida;igual;4142,4;273,6;-0,0;VP2;3,0
+VP2-cj1;VP2CJ1;Viga de piso VP;VP2;;;;no;1;T15x6;48,0;85,0;4080,0;266,0;T12;T12_RETENIDO_H01_v02.dxf;retenida;igual;4080,0;266,0;0,0;VP2;3,0
+VP2-cj2;VP2CJ2;Viga de piso VP;VP2;;;;no;1;T15x6;48,0;60,0;2880,0;216,0;T12;T12_RETENIDO_H01_v02.dxf;retenida;igual;2880,0;216,0;0,0;VP2;3,0
+VP2-cj3;VP2CJ3;Viga de piso VP;VP2;;;;no;1;T15x6;35,0;48,0;1680,0;166,0;T12;T12_RETENIDO_H01_v02.dxf;retenida;igual;1680,0;166,0;0,0;VP2;3,0
+VP3-base;VP3B;Viga de piso VP;VP3;;;;no;1;T15x6;48,0;88,8;4142,4;273,6;T12;T12_RETENIDO_H01_v02.dxf;retenida;igual;4142,4;273,6;-0,0;VP3;3,0
+VP3-cj1;VP3CJ1;Viga de piso VP;VP3;;;;no;1;T15x6;48,0;85,0;4080,0;266,0;T12;T12_RETENIDO_H01_v02.dxf;retenida;igual;4080,0;266,0;0,0;VP3;3,0
+VP3-cj2;VP3CJ2;Viga de piso VP;VP3;;;;no;1;T15x6;48,0;60,0;2880,0;216,0;T12;T12_RETENIDO_H01_v02.dxf;retenida;igual;2880,0;216,0;0,0;VP3;3,0
+VP3-cj3;VP3CJ3;Viga de piso VP;VP3;;;;no;1;T15x6;35,0;48,0;1680,0;166,0;T12;T12_RETENIDO_H01_v02.dxf;retenida;igual;1680,0;166,0;0,0;VP3;3,0
+VP4-base;VP4B;Viga de piso VP;VP4;;;;no;1;T15x6;48,0;88,8;4142,4;273,6;T12;T12_RETENIDO_H01_v02.dxf;retenida;igual;4142,4;273,6;-0,0;VP4;3,0
+VP4-cj1;VP4CJ1;Viga de piso VP;VP4;;;;no;1;T15x6;48,0;85,0;4080,0;266,0;T12;T12_RETENIDO_H01_v02.dxf;retenida;igual;4080,0;266,0;0,0;VP4;3,0
+VP4-cj2;VP4CJ2;Viga de piso VP;VP4;;;;no;1;T15x6;48,0;60,0;2880,0;216,0;T12;T12_RETENIDO_H01_v02.dxf;retenida;igual;2880,0;216,0;0,0;VP4;3,0
+VP4-cj3;VP4CJ3;Viga de piso VP;VP4;;;;no;1;T15x6;35,0;48,0;1680,0;166,0;T12;T12_RETENIDO_H01_v02.dxf;retenida;igual;1680,0;166,0;0,0;VP4;3,0
+VP5-base;VP5B;Viga de piso VP;VP5;;;;no;1;T15x6;48,0;88,8;4142,4;273,6;T12;T12_RETENIDO_H01_v02.dxf;retenida;igual;4142,4;273,6;-0,0;VP5;3,0
+VP5-cj1;VP5CJ1;Viga de piso VP;VP5;;;;no;1;T15x6;48,0;85,0;4080,0;266,0;T12;T12_RETENIDO_H01_v02.dxf;retenida;igual;4080,0;266,0;0,0;VP5;3,0
+VP5-cj2;VP5CJ2;Viga de piso VP;VP5;;;;no;1;T15x6;48,0;60,0;2880,0;216,0;T12;T12_RETENIDO_H01_v02.dxf;retenida;igual;2880,0;216,0;0,0;VP5;3,0
+VP5-cj3;VP5CJ3;Viga de piso VP;VP5;;;;no;1;T15x6;35,0;48,0;1680,0;166,0;T12;T12_RETENIDO_H01_v02.dxf;retenida;igual;1680,0;166,0;0,0;VP5;3,0
+VP6-base;VP6B;Viga de piso VP;VP6;;;;no;1;T15x6;48,0;89,4;4171,2;274,8;T10;T10_v02.dxf;cortar;igual;4171,2;274,8;0,0;VP6;3,0
+VP7-base;VP7B;Viga de piso VP;VP7;;;;no;1;T15x6;48,0;89,4;4021,2;274,8;T11;T11_v02.dxf;cortar;igual;4021,2;274,8;0,0;VP7;3,0
+PS1;PS1;Puntal PS;PS;1;7;;no;1;T6x6;29,0;89,4;2422,6;236,8;T11;T11_v02.dxf;cortar;modificada (sin pestaña lateral al extremo);2482,6;256,8;-60,0;PS;3,0
+PS2;PS2;Puntal PS;PS;2;7;;no;1;T6x6;29,0;88,8;2465,2;255,6;T11;T11_v02.dxf;cortar;igual;2465,2;255,6;-0,0;PS;3,0
+PS3;PS3;Puntal PS;PS;3;7;;no;1;T6x6;29,0;88,8;2465,2;255,6;T11;T11_v02.dxf;cortar;igual;2465,2;255,6;-0,0;PS;3,0
+PS4;PS4;Puntal PS;PS;4;7;;no;1;T6x6;29,0;88,8;2465,2;255,6;T11;T11_v02.dxf;cortar;igual;2465,2;255,6;0,0;PS;3,0
+PS5;PS5;Puntal PS;PS;5;7;;no;1;T6x6;29,0;88,8;2465,2;255,6;T11;T11_v02.dxf;cortar;igual;2465,2;255,6;0,0;PS;3,0
+PS6;PS6;Puntal PS;PS;6;7;;no;1;T6x6;29,0;88,8;2465,2;255,6;T11;T11_v02.dxf;cortar;igual;2465,2;255,6;0,0;PS;3,0
+PS7;PS7;Puntal PS;PS;7;7;;no;1;T6x6;29,0;89,4;2422,6;236,8;T11;T11_v02.dxf;cortar;modificada (sin pestaña lateral al extremo);2482,6;256,8;-60,0;PS;3,0
+TS-1;TS 1/12;Tira TS;TS;1;12;;no;1;B4;4,0;130,14;520,55;268,28;T05;T05_v02.dxf;cortar;igual;520,55;268,28;0,0;TS;2,4
+TS-2;TS 2/12;Tira TS;TS;2;12;;no;1;B4;4,0;130,14;520,55;268,28;T05;T05_v02.dxf;cortar;igual;520,55;268,28;0,0;TS;2,4
+TS-3;TS 3/12;Tira TS;TS;3;12;;no;1;B4;4,0;130,14;520,55;268,28;T05;T05_v02.dxf;cortar;igual;520,55;268,28;0,0;TS;2,4
+TS-4;TS 4/12;Tira TS;TS;4;12;;no;1;B4;4,0;130,14;520,55;268,28;T05;T05_v02.dxf;cortar;igual;520,55;268,28;0,0;TS;2,4
+TS-5;TS 5/12;Tira TS;TS;5;12;;no;1;B4;4,0;130,14;520,55;268,28;T05;T05_v02.dxf;cortar;igual;520,55;268,28;0,0;TS;2,4
+TS-6;TS 6/12;Tira TS;TS;6;12;;no;1;B4;4,0;130,14;520,55;268,28;T05;T05_v02.dxf;cortar;igual;520,55;268,28;0,0;TS;2,4
+TS-7;TS 7/12;Tira TS;TS;7;12;;no;1;B4;4,0;130,14;520,55;268,28;T05;T05_v02.dxf;cortar;igual;520,55;268,28;0,0;TS;2,4
+TS-8;TS 8/12;Tira TS;TS;8;12;;no;1;B4;4,0;130,14;520,55;268,28;T05;T05_v02.dxf;cortar;igual;520,55;268,28;0,0;TS;2,4
+TS-9;TS 9/12;Tira TS;TS;9;12;;no;1;B4;4,0;130,14;520,55;268,28;T05;T05_v02.dxf;cortar;igual;520,55;268,28;0,0;TS;2,4
+TS-10;TS 10/12;Tira TS;TS;10;12;;no;1;B4;4,0;130,14;520,55;268,28;T05;T05_v02.dxf;cortar;igual;520,55;268,28;0,0;TS;2,4
+TS-11;TS 11/12;Tira TS;TS;11;12;;no;1;B4;4,0;130,14;520,55;268,28;T05;T05_v02.dxf;cortar;igual;520,55;268,28;0,0;TS;2,4
+TS-12;TS 12/12;Tira TS;TS;12;12;;no;1;B4;4,0;130,14;520,55;268,28;T05;T05_v02.dxf;cortar;igual;520,55;268,28;0,0;TS;2,4
+TP-1;TP 1/4;Tira TP;TP;1;4;;no;1;B4;4,0;176,2;704,78;360,39;T11;T11_v02.dxf;cortar;igual;704,78;360,39;0,0;TP;2,4
+TP-2;TP 2/4;Tira TP;TP;2;4;;no;1;B4;4,0;176,2;704,78;360,39;T11;T11_v02.dxf;cortar;igual;704,78;360,39;0,0;TP;2,4
+TP-3;TP 3/4;Tira TP;TP;3;4;;no;1;B4;4,0;176,2;704,78;360,39;T11;T11_v02.dxf;cortar;igual;704,78;360,39;0,0;TP;2,4
+TP-4;TP 4/4;Tira TP;TP;4;4;;no;1;B4;4,0;176,2;704,78;360,39;T11;T11_v02.dxf;cortar;igual;704,78;360,39;0,0;TP;2,4
+GT1;GT1;Placa GT;GT;1;14;;no;1;PLACA;24,44;30,0;733,2;108,88;T11;T11_v02.dxf;cortar;igual;733,2;108,88;0,0;GT;3,0
+GT2;GT2;Placa GT;GT;2;14;;no;1;PLACA;24,44;30,0;733,2;108,88;T11;T11_v02.dxf;cortar;igual;733,2;108,88;0,0;GT;3,0
+GT3;GT3;Placa GT;GT;3;14;;no;1;PLACA;24,44;30,0;733,2;108,88;T11;T11_v02.dxf;cortar;igual;733,2;108,88;-0,0;GT;3,0
+GT4;GT4;Placa GT;GT;4;14;;no;1;PLACA;24,44;30,0;733,2;108,88;T11;T11_v02.dxf;cortar;igual;733,2;108,88;0,0;GT;3,0
+GT5;GT5;Placa GT;GT;5;14;;no;1;PLACA;24,44;30,0;733,2;108,88;T11;T11_v02.dxf;cortar;igual;733,2;108,88;0,0;GT;3,0
+GT6;GT6;Placa GT;GT;6;14;;no;1;PLACA;24,44;30,0;733,2;108,88;T11;T11_v02.dxf;cortar;igual;733,2;108,88;0,0;GT;3,0
+GT7;GT7;Placa GT;GT;7;14;;no;1;PLACA;24,44;30,0;733,2;108,88;T11;T11_v02.dxf;cortar;igual;733,2;108,88;0,0;GT;3,0
+GT8;GT8;Placa GT;GT;8;14;;no;1;PLACA;24,44;30,0;733,2;108,88;T11;T11_v02.dxf;cortar;igual;733,2;108,88;0,0;GT;3,0
+GT9;GT9;Placa GT;GT;9;14;;no;1;PLACA;24,44;30,0;733,2;108,88;T11;T11_v02.dxf;cortar;igual;733,2;108,88;0,0;GT;3,0
+GT10;GT10;Placa GT;GT;10;14;;no;1;PLACA;24,44;30,0;733,2;108,88;T11;T11_v02.dxf;cortar;igual;733,2;108,88;0,0;GT;3,0
+GT11;GT11;Placa GT;GT;11;14;;no;1;PLACA;24,44;30,0;733,2;108,88;T11;T11_v02.dxf;cortar;igual;733,2;108,88;-0,0;GT;3,0
+GT12;GT12;Placa GT;GT;12;14;;no;1;PLACA;24,44;30,0;733,2;108,88;T11;T11_v02.dxf;cortar;igual;733,2;108,88;-0,0;GT;3,0
+GT13;GT13;Placa GT;GT;13;14;;no;1;PLACA;24,44;30,0;733,2;108,88;T11;T11_v02.dxf;cortar;igual;733,2;108,88;-0,0;GT;3,0
+GT14;GT14;Placa GT;GT;14;14;;no;1;PLACA;24,44;30,0;733,2;108,88;T11;T11_v02.dxf;cortar;igual;733,2;108,88;-0,0;GT;3,0
